@@ -1,0 +1,11 @@
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\bin\Debug\Wizard.exe.config
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.csprojResolveAssemblyReference.cache
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.frmMain.resources
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.frmWizard.resources
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.Properties.Resources.resources
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.csproj.GenerateResource.Cache
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\bin\Debug\Wizard.exe
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\bin\Debug\Wizard.pdb
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.exe
+c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.pdb
+C:\Users\XiangYX\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.frmHelp.resources
