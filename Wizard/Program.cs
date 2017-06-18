@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//添加注释用于测试
 namespace Wizard
 {
     static class Program

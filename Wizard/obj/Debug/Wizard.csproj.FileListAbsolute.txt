@@ -9,3 +9,14 @@ c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\bin\Debug\W
 c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.exe
 c:\users\xiangyx\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.pdb
 C:\Users\XiangYX\documents\visual studio 2015\Projects\Wizard\Wizard\obj\Debug\Wizard.frmHelp.resources
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\bin\Debug\Wizard.exe.config
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.exe
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.pdb
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\bin\Debug\Wizard.exe
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\bin\Debug\Wizard.pdb
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.csprojResolveAssemblyReference.cache
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.frmHelp.resources
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.frmMain.resources
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.frmWizard.resources
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.Properties.Resources.resources
+C:\Users\XiangYX\Source\Repos\vs2015\Wizard\obj\Debug\Wizard.csproj.GenerateResource.Cache
